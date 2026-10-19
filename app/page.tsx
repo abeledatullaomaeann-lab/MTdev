@@ -5,7 +5,7 @@ import { ArrowLeft, ArrowRight, ArrowUpRight, GitBranch, Link, Mail, MapPin, Sen
 
 
 const projects = [
-  { title: 'Campus Event Management System',image: '/event.jpg', type: 'Campus platform', description: 'A practical campus platform that helps organize events, manage participants, and keep university activities running smoothly.', tags: ['React', 'Node.js', 'MongoDB'], tone: 'project-blue' },
+  { title: 'Campus Event Management System',image:'/Event.jpg', type: 'Campus platform', description: 'A practical campus platform that helps organize events, manage participants, and keep university activities running smoothly.', tags: ['React', 'Node.js', 'MongoDB'], tone: 'project-blue' },
   { title: 'PHINMA Araullo University CLE Reviewer',image: '/CLE.jpg', type: 'Criminology board exam reviewer', description: 'Your ultimate criminology board exam reviewer for building confidence through focused study materials and practice.', tags: ['Next.js', 'UI/UX', 'Education'], tone: 'project-warm' },
   { title: 'LabGuard', type: 'Laboratory safety platform',image: '/Labguard.png', description: 'A focused digital tool designed to help students follow laboratory procedures, check safety requirements, and work with greater confidence.', tags: ['React', 'Safety', 'UI/UX'], tone: 'project-green' ,url:"https://labguard.it.com/"},
   { title: 'HK-SAMMS', type: 'Attendance checker',image: '/Hk.png', description: 'A scheduling system for HK Scholars of PHINMA Araullo University that automates duty assignments, minimizes scheduling conflicts, and improves schedule management and accessibility.', tags: ['React', 'Node.js', 'Mongodb'], tone: 'project-green', url: 'https://final-hksamms.vercel.app/'},
